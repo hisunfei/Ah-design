@@ -67,7 +67,7 @@ python3 -m http.server 8080
 ## 📝 知识来源
 
 NHK 教育频道《嗨设计 / Design Ah!》  
-整理：孙飞 @hisunfei
+整理：[孙飞 @hisunfei](https://github.com/hisunfei)
 
 ---
 
