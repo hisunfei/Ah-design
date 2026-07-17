@@ -1,10 +1,12 @@
+**中文** | [English](README.en.md) | [日本語](README.ja.md)
+
 # 嗨设计 — 设计思维启蒙
 
 > 设计，是让事物变得更好的思考方式。从观察身边的一切开始，发现隐藏在日常中的美与智慧。
 
 一个交互式单页网站，整理自 NHK 教育频道《啊！设计 / Design Ah!》的设计知识，带你从观察、拆解、排列、排版到动手实践，系统学习设计思维。
 
-🌐 **在线访问：** [hisunfei.github.io/hi-design](https://hisunfei.github.io/hi-design/)
+🌐 **在线访问：** [hisunfei.github.io/Ah-design](https://hisunfei.github.io/Ah-design/)
 
 ---
 
@@ -20,7 +22,7 @@
 | 06 | 🔶 纹样 | 48 格互动纹样画板（点击旋转）+ 中日希伊四大文化纹样 |
 | 07 | 🏗️ 空间设计 | 6 个建筑设计概念：对称、自然、光线、动线、尺度、灰空间 |
 | 08 | 📖 设计十大法则 | 从节目中提炼的核心设计原则 |
-| 09 | 👨‍🎨 设计大师的话 | 12 位中外设计大师的设计哲学（隈研吾、原研哉、迪特·拉姆斯、乔纳森·艾维、王澍……） |
+| 09 | 👨🎨 设计大师的话 | 12 位中外设计大师的设计哲学（隈研吾、原研哉、迪特·拉姆斯、乔纳森·艾维、王澍……） |
 | 10 | ✏️ 动手练习 | 自由画板（可绘画）+ 4 个日常设计挑战 |
 
 ---
@@ -39,8 +41,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/hisunfei/hi-design.git
-cd hi-design
+git clone https://github.com/hisunfei/Ah-design.git
+cd Ah-design
 
 # 启动本地服务器（任选一种）
 python3 -m http.server 8080
